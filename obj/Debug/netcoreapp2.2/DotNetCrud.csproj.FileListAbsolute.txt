@@ -1,0 +1,14 @@
+C:\Rajneesh\DotNetCrud\bin\Debug\netcoreapp2.2\DotNetCrud.deps.json
+C:\Rajneesh\DotNetCrud\bin\Debug\netcoreapp2.2\DotNetCrud.runtimeconfig.json
+C:\Rajneesh\DotNetCrud\bin\Debug\netcoreapp2.2\DotNetCrud.runtimeconfig.dev.json
+C:\Rajneesh\DotNetCrud\bin\Debug\netcoreapp2.2\DotNetCrud.dll
+C:\Rajneesh\DotNetCrud\bin\Debug\netcoreapp2.2\DotNetCrud.pdb
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.csprojAssemblyReference.cache
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.csproj.CoreCompileInputs.cache
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.RazorAssemblyInfo.cache
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.RazorAssemblyInfo.cs
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.AssemblyInfoInputs.cache
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.AssemblyInfo.cs
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.RazorTargetAssemblyInfo.cache
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.dll
+C:\Rajneesh\DotNetCrud\obj\Debug\netcoreapp2.2\DotNetCrud.pdb
