@@ -40,6 +40,12 @@ namespace DotNetCrud.Repositories
             return employee;
         }
 
+        public async Task<Employee> FindEmployee(int id)
+        {
+            var student = await _context.Employee.FindAsync(id);
+            return student;
+        }
+
         public async Task SaveChanges()
         {
             await _context.SaveChangesAsync();

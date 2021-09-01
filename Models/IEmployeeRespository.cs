@@ -9,5 +9,6 @@ namespace DotNetCrud.Models
         Task<Employee> AddEmployee(Employee employee);
         Task<Employee> updateEmployee(Employee employee);
         Task<Employee> DeleteEmployee(int id);
+        Task<Employee> FindEmployee(int id);
     }
 }

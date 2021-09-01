@@ -7,6 +7,7 @@ namespace DotNetCrud.Models
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
+        [Required]
         public int Salary { get; set; }
         public Department DepartmentId { get; set; }
     }
