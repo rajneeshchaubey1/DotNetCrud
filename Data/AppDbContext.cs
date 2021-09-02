@@ -8,7 +8,6 @@ namespace DotNetCrud.Models
         {
 
         }
-
         public DbSet<Employee> Employee { get; set; }
         public DbSet<Department> Department { get; set; }
     }
